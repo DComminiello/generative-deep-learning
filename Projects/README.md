@@ -5,4 +5,4 @@ Code repository for the PhD course of [**Generative Deep Learning**](https://dan
 
 Instructor: Prof. Danilo Comminiello :man_teacher:
 
-## Projects
+## Projects :busts_in_silhouette:
