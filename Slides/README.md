@@ -7,4 +7,7 @@ Instructor: Prof. Danilo Comminiello :man_teacher:
 
 ## Slides
 
-* [L01]
+* **[Lecture 1]** GDL2122_00_Course Intro.pdf: Introduction to the course.
+* **[Lecture 2]** GDL2122_01_Generative Modeling.pdf: Introduction to generative modeling and probabilistic generative modeling. The difference between discriminative and generative models, the framework of the latter ones. Basic concepts of probability, bayesian generative modeling and topic challenges.
+* **[Lecture 3]** GDL2122_02_DGM.pdf: Generative deep learning: introduction, framework, challenges and latent variable models. Taxonomy of generative models and their overview.
+* **[Lecture 4]** GDL2122_03_ARM.pdf: Generative autoregressive models. Autoregressive models with finite memory, long-range memory and their parameterization. Autoregressive conditional models.
