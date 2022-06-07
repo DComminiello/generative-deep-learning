@@ -5,7 +5,7 @@ Code repository for the PhD course of [**Generative Deep Learning**](https://dan
 
 Instructor: Prof. Danilo Comminiello :man_teacher:
 
-## Slides
+## Slides 	:books:
 
 * **[Lecture 1]** GDL2122_00_Course Intro.pdf: Introduction to the course.
 * **[Lecture 2]** GDL2122_01_Generative Modeling.pdf: Introduction to generative modeling and probabilistic generative modeling. The difference between discriminative and generative models, the framework of the latter ones. Basic concepts of probability, bayesian generative modeling and topic challenges.
