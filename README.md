@@ -24,13 +24,13 @@ This course covers the foundations and the main models of generative deep learni
 Coming soon, stay tuned! 
 
 
-## About the repository :computer:
+## About the repository :desktop_computer:
 
 This repository contains the material to reproduce and attend the Generative Deep Learning course.
-* The folder `Slides` includes the slides of the lectures.
-* The folder `Notebooks` contains Python notebooks and tutorials carried out in TensorFlow.
-* The folder `Seminars` comprises material from course seminars.
-* The folder `Projects` will collect students exam project.
+* :books: The folder `Slides` includes the slides of the lectures.
+* :computer: The folder `Notebooks` contains Python notebooks and tutorials carried out in TensorFlow.
+* :office_worker: The folder `Seminars` comprises material from course seminars.
+* :busts_in_silhouette: The folder `Projects` will collect students exam project.
 
 ### Projects :soon:
 
