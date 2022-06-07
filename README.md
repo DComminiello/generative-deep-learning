@@ -13,7 +13,6 @@ This course covers the foundations and the main models of generative deep learni
 
 * **INTRODUCTION TO GENERATIVE DEEP LEARNING.** Generative modeling and probabilistic generative models. Deep neural networks. Building deep network models. Learning latent representations.
 * **GENERATIVE AUTOREGRESSIVE MODELS.** Autoregressive models. Parameterization by neural networks. Generation examples.
-* **GENERATIVE FLOW-BASED MODELS.** Flows for continuous and discrete random variables. Invertible transformation of complex distributions. Normalizing flows.
 * **VARIATIONAL AUTOENCODERS.** Probabilistic principal component analysis. Variational inference. Variational autoencoders (VAEs) and modern deep VAE architectures.
 * **GENERATIVE ADVERSARIAL NETWORKS.** Generator and critic. Training generative adversarial networks (GANs). Optimization and loss functions of GANs.
 * **ENERGY-BASED AND DIFFUSION MODELS.** Likelihood based learning. Energy based models (EBMs) with latent variables. Self-supervised learning with EBMs. Diffusion and score-based models.
