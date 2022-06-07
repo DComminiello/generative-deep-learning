@@ -6,3 +6,7 @@ Code repository for the PhD course of [**Generative Deep Learning**](https://dan
 Instructor: Prof. Danilo Comminiello :man_teacher:
 
 ## Notebooks
+
+* **[GDL]_Lab_Session_01_Python.ipynb**: A simple jupyter notebook for introducing Python and setting up the environment.
+* **[GDL]_Lab_Session_02_TensorFlow.ipynb**: A jupyter notebook containing basic concepts of TensorFlow (TF) and the instructions on how to build a vanilla model in TF.
+* **[GDL]_Lab_Session_03_MusicGen.ipynb**: A jupyter notebook to get more inside the topic. Building and training a generative RNN model for music generation.
