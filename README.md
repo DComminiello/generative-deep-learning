@@ -5,6 +5,11 @@ Code repository for the PhD course of [**Generative Deep Learning**](https://dan
 
 Instructor: Prof. Danilo Comminiello :man_teacher:
 
+## News 💣
+We have the pleasure to host two webinars from international experts in the generative deep learning research field!
+
+We will host **[Chitwan Saharia](https://chitwansaharia.github.io/)** from Google Brain and **[Yang Song](https://yang-song.github.io/)** from Stanford AI Lab!
+
 ## About the course :dart:
 
 This course covers the foundations and the main models of generative deep learning, including autoregressive models, variational autoencoders, generative adversarial networks, flow-based models and energy-based models.
@@ -21,7 +26,15 @@ This course covers the foundations and the main models of generative deep learni
 
 ## Seminars with special guests :technologist:
 
-Coming soon, stay tuned! 
+* **Imagen: imagine · illustrate · inspire**, a webinar from **[Chitwan Saharia](https://chitwansaharia.github.io/)**, Google Brain.
+
+Tuesday 21st, 4:00 pm, [Zoom Link](https://uniroma1.zoom.us/j/86596351314?pwd=T0pja1RKLzFTd2ZabWN0TS9yN2tMQT09).
+
+* **Creating noise from data is easy; creating data from noise is generative modeling**, a webinar from **[Yang Song](https://yang-song.github.io/)**, Stanford AI Lab.
+
+Monday 27th, 5:30 pm, [Zoom Link](https://uniroma1.zoom.us/j/86596351314?pwd=T0pja1RKLzFTd2ZabWN0TS9yN2tMQT09).
+
+
 
 
 ## About the repository :desktop_computer:
